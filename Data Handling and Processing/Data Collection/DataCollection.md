@@ -19,3 +19,9 @@
 * Apply web page data extraction techniques using `BeautifulSoup`.
 
 * Analyze the structure of an HTML page to identify and count specific elements.
+
+* Understand the concept and importance of APIs for data collection.
+
+* Apply HTTP methods (GET and POST) to send and receive data via API.
+
+* Analyze API responses and manipulate JSON data in Python.
