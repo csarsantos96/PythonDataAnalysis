@@ -38,4 +38,3 @@ Resumindo com estilo:
 
 # DATA FRAME
 
-## Data Collections
