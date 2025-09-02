@@ -1,5 +1,5 @@
-import matplotlib.pyplot as plt
-import seaborn as sns
+import matplotlibClass.pyplot as plt
+import seabornClass as sns
 import pandas as pd
 
 df = pd.read_csv('clientes-v3-preparado.csv')
