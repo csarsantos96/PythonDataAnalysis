@@ -5,7 +5,7 @@ from sklearn.tree import  DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, precision_score, recall_score
 import  joblib
 
-df = pd.read_csv('clientes-v3-preparado.csv')
+df = pd.read_csv('../dataVisualization/clientes-v3-preparado.csv')
 
 # Categorizar salario: acima e abaixo da mediana
 df['salario_categoria'] = (df['salario'] > df['salario'].median()).astype(int) # 1 - acima da mediana, 0 - abaixo ou na igual a mediana
