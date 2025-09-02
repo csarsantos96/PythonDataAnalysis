@@ -6,7 +6,7 @@ import pandas as pd
 pd.set_option('display.width', None)
 pd.set_option('display.max_colwidth', None)
 
-df = pd.read_csv('clientes-v3-preparado.csv')
+df = pd.read_csv('../dataVisualization/clientes-v3-preparado.csv')
 
 # Uso do Pandas
 print('Estatística do dataframe: \n', df.describe())
