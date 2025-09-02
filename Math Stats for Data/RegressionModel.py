@@ -4,7 +4,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import root_mean_squared_error, r2_score
 import joblib
 
-df = pd.read_csv('../dataVisualization/clientes-v3-preparado.csv')
+df = pd.read_csv('../Advanced Data Visualization/clientes-v3-preparado.csv')
 
 #X = df[['anos_experiencia']] # Preditor
 X= df[['idade','anos_experiencia', 'nivel_educacao_cod', 'area_atuacao_cod']] # Preditor

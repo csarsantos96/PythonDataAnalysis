@@ -1,3 +1,5 @@
+dash
+plotly
 astroid==3.3.10
 beautifulsoup4==4.13.4
 black==25.1.0

@@ -4,7 +4,7 @@ import joblib
 pd.set_option('display.width', None)
 pd.set_option('display.max_columns', None)
 
-df = pd.read_csv('../dataVisualization/clientes-v3-preparado.csv')
+df = pd.read_csv('../Advanced Data Visualization/clientes-v3-preparado.csv')
 
 print(df.isnull().sum().sum())
 
