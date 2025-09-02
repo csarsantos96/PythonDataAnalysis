@@ -1,4 +1,4 @@
-import matplotlibClass.pyplot as plt
+import matplotlib.pyplot as plt
 import seabornClass as sns
 import pandas as pd
 
