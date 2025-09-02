@@ -7,3 +7,10 @@
 - Create charts using parameter settings such as figure size, colors, axis labels, and titles to improve chart clarity and interpretation.
 
 - Analyze visualized data to extract meaningful insights.
+
+## Using Matplotlib
+- Understand how to use the Matplotlib library to create different types of graphs;
+
+- Apply customization techniques to graphs, configuring properties to improve data visualization and interpretation;
+
+- Analyze the relationship between different variables using graphs to identify patterns and correlations in the data.
